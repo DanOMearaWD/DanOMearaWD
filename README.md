@@ -1,7 +1,3 @@
-# 💫 About Me:
-I am a Computer Science student at the University of London🧑🏻‍💻
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danomearawd) 
 
