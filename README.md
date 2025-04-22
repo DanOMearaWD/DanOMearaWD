@@ -1,3 +1,6 @@
+I'm a dedicated computer science student working toward both my bachelor's and master's degrees simultaneously, and I’ve also completed a Data Science Bootcamp through Rutgers University. What really sets me apart is how genuinely interested I am in the subject—every class gets me curious, and I always end up diving deeper on my own, studying beyond what's required. I'm excited to bring that same energy and drive into a hands-on internship experience.
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=10000&width=435&lines=I+am+skilled+in+the+following%3A)](https://git.io/typing-svg)
 
 ![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
